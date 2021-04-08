@@ -8,4 +8,3 @@ I'm Jérémy, a 27 years old developer from France.
 
 ## Contact
 - [Toussaint Jérémy](https://www.linkedin.com/in/toussaintjeremy/) on Linkedin
-- [Niakette#8831](./) on Discord
