@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Jérémy, a 27 years old developer from France.
+I'm Jérémy, a 29 years old developer from France.
 
 ## Skills
 - Java, TypeScript, Nodejs, Python
